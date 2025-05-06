@@ -1,9 +1,9 @@
 # Exp3-Sobel-edge-detection-filter-using-CUDA-to-enhance-the-performance-of-image-processing-tasks.
 
-<h3>RICHARDSON A</h3>
-<h3>212222233005</h3>
+<h3>NAME : RICHARDSON A</h3>
+<h3>Reg No : 212222233005</h3>
 <h3>EX.3</h3>
-<h3>06/05/07</h3>
+<h3>DATE : 06/05/07</h3>
 <h1> <align=center> Sobel edge detection filter using CUDA </h3>
   Implement Sobel edge detection filtern using GPU.</h3>
 Experiment Details:
